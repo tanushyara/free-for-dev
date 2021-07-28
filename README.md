@@ -172,6 +172,7 @@ Table of Contents
 
 ## APIs, Data and ML
 
+  * Mailcot.com(https://mailcot.com) - We pride ourselves on cultivating lasting client relationships built on trust and mutual respect.
   * [IP.City](https://ip.city) — 100 free IP geolocation requests per day
   * [Abstract API](https://www.abstractapi.com) — API suite for a variety of use cases including IP geolocation, gender detection or even email validation.
   * [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support.
