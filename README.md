@@ -14,7 +14,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 900+ p
 
 Table of Contents
 =================
-
+   F
    * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
    * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)
@@ -687,6 +687,8 @@ Table of Contents
   * [mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API
   * [mohmal.com](https://www.mohmal.com/en) — Disposable temporary email
   * [moosend.com](https://moosend.com/) — Mailing list management service. Free account for 6 months for startups
+  * [Mailcot.com](https://mailcot.com/) - 200 emails free for first month.
+  * [Migomail.com](https://migomail.com/) - migomail provide free SMTP service.
   * [Outlook.com](https://outlook.live.com/owa/) - Free personal email and calendar
   * [pepipost.com](https://pepipost.com) — 30k emails free for first month, then first 100 emails/day free
   * [phplist.com](https://phplist.com/) — Hosted version allow 300 emails/month free
